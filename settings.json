@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.site",
-    "port": 25565,
+    "ip": "cloud.azureclouds.xyz:25583",
+    "port": 25583,
     "version": "1.20.1",
     "try-creative": false
   },
